@@ -5,3 +5,4 @@ numpy~=2.5.4
 pythreejs~=2.4.2
 jupyterlab~=3.4.14
 jupyterlab_widgets~=3.0.17
+ipympl>=0.10.0
