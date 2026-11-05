@@ -12,11 +12,13 @@ The Jupyter notebook to compile is in `2026_wirelesscomms` folder.
 To properly work, each PC should have installed a Python interpreter. Then a virtual environment with the required packages can be created using the following commands on a PowerShell:
 
 ```
-py -3.13 -m venv .venv
+cd C:\Users\SI6\Desktop\comm-workshops
+ 
+py -m venv .venv
 
 .\.venv\Scripts\python.exe -m pip install --upgrade pip
 
-.\.venv\Scripts\python.exe -m pip install -r .\2026_wirelesscomms\requirements.txt
+.\.venv\Scripts\python.exe -m pip install -r .\requirements.txt
 ```
 
 Then, JupyterLab notebook can be launched through
