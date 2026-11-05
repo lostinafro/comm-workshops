@@ -1,6 +1,6 @@
 # Wireless Communication Workshop
 
-This repository contains the code and resources for the Wireless Communication Workshop.
+This repository contains the code and resources for the Wireless Communication Workshop done for the Digital Communication course of Communication Engineering Master Degree at University of Pisa.
 
 ## Workshop Materials
 
